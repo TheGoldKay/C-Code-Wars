@@ -1,2 +1,2 @@
-# C-Code-Wars
-Grouping All C# Answers For Code Wars Katas
+# C# Code Wars
+Grouping All C# Answers For codewars.com Katas
